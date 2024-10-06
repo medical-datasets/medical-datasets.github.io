@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /join/
+permalink:
 title: Join
 description: How to join the lab
-nav: true
+nav: false
 nav_order: 8
 ---
 

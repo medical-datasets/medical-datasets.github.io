@@ -3,13 +3,13 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015]
+years: [2024,2023]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
-An overview of our publications. The links if available are to the official/published version, but you should always be able to find a preprint on arXiV as well. 
+An overview of publications based or presented at the workshop. The links if available are to the official/published version, but you should always be able to find a preprint on arXiV as well. 
 
 <div class="publications">
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: People
-permalink: /people/
+permalink:
 description: 
-nav: true
+nav: false
 nav_order: 2
 horizontal: false
 display_categories: 

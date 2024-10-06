@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink:
 description: On-going research projects.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work]
 horizontal: false
