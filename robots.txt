@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://purrlab.github.io/sitemap.xml
+Sitemap: https://medical-datasets.github.io/sitemap.xml
