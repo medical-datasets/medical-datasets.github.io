@@ -35,7 +35,7 @@ All previous abstracts can be found [here](https://medical-datasets.github.io/we
 * S05E02 - **[Dr. Annika Reinke](https://youtu.be/OZheNn-DXp4?si=oLvXayZ_l-LTaDu4)** (DKFZ, Germany). 25th March 2024. **Why your Dataset Matters: Choosing the Right Metrics for Biomedical Image Analysis**
 * S05E03 - **[Alceu Bissoto and Dr. Sandra Avila](https://youtu.be/1gbeopshZiE?si=RubHQI-KAJcxjTLG)** (UNICAMP, Brazil). 25th March 2024. **The Performance of Transferability Metrics does not Translate to Medical Tasks**
 
-All previous abstracts can be found [here](https://purrlab.github.io/webinar_talks). 
+All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
 
 ### Organizers
 [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) & [Veronika Cheplygina](https://veronikach.com) at IT University of Copenhagen (Denmark). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
