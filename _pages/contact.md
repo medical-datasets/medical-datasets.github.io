@@ -7,4 +7,4 @@ nav: true
 nav_order: 10
 ---
 
-For all general inquiries, please contact Amelia Jiménez-Sánchez (amji @ itu.dk), Veronika Cheplygina (vech @ itu.dk), or Steff Groefsema (s.groefsema@rug.nl) 
+For all general inquiries, please contact Amelia Jiménez-Sánchez (amji @ itu.dk), Veronika Cheplygina (vech @ itu.dk), or Steff Groefsema (s.groefsema @ rug.nl) 
