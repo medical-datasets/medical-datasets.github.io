@@ -11,9 +11,9 @@ nav: false
 
 ---
 
-### **Dr. Malihe Alikhani & Dr. Resmi Ramachandranpillai** (Northeastern University, USA)
+### Dr. Malihe Alikhani & Dr. Resmi Ramachandranpillai (Northeastern University, USA)
  
-Title: Towards Equity: Overcoming Fairness Challenges in Multimodal Learning
+Title: **Towards Equity: Overcoming Fairness Challenges in Multimodal Learning**
 
 Abstract: The world around us is both multimodal and intersectional. Human experiences are shaped by diverse streams of information—visual, textual, auditory, and structured data—all interacting in complex ways. Similarly, identities are layered and multifaceted, with factors like race, gender, and socioeconomic status intersecting to influence lived realities. In the context of healthcare, biases in automated clinical decision-making using Electronic Healthcare Records (EHR) exacerbate disparities in patient care and outcomes, particularly for intersectional subgroups. The multimodal nature of EHR data—integrating text, time series, tabular information, events, and images—adds complexity to bias mitigation, as the impact on minority groups varies across modalities. In this talk, we first discuss the ways to learn unified representations from heterogeneous data using pre-trained models. Then, we will discuss the limitations of conventional bias mitigation strategies, highlighting their inability to address the nuanced biases affecting intersectional subgroups in multimodal setting. We will then explore the impact of bagging strategies on fairness improvement using extensive multimodal datasets, MIMIC-Eye and MIMIC-IV ED. We will conclude by examining the conditions and factors that drive the positive correlation bagging and fairness improvements, showcasing scenarios where these strategies succeed. By advancing research in these directions, we aim to pave the way for more inclusive and equitable multimodal AI systems
 
@@ -26,8 +26,8 @@ Video: [S06E03](https://www.youtube.com/watch?v=mk93Asdv_LU)
 
 ---
 
-### **Alice Jin** (Massachusetts Institute of Technology, USA)
-Title: Fair Multimodal Checklists for Interpretable Clinical Time Series Prediction
+### Alice Jin (Massachusetts Institute of Technology, USA)
+Title: **Fair Multimodal Checklists for Interpretable Clinical Time Series Prediction**
 
 Abstract: Checklists are interpretable and easy-to-deploy models often used in real-world clinical decision-making. Prior work has demonstrated that checklists can be learned from binary input features in a data-driven manner by formulating the training objective as an integer programming problem. In this work, we learn diagnostic checklists for the task of phenotype classification with time series vitals data of ICU patients from the MIMIC-IV dataset. For 13 clinical phenotypes, we fully explore the empirical behavior of the checklist model in regard to multimodality, time series dynamics, and fairness. Our results show that the addition of the imaging data modality and the addition of shapelets that capture time series dynamics can significantly improve predictive performance. Checklist models optimized with explicit fairness constraints achieve the target fairness performance, at the expense of lower predictive performance.
 Bio: Alice Jin is a fourth-year Ph.D. student in the HealthyML Group at MIT, led by Professor Marzyeh Ghassemi. Her general research interests are in deep representation learning and generative modeling for healthcare applications. Specifically, she's interested in exploring how expert medical knowledge can be incorporated into ML models, as well as how to ensure medical validity and clinical relevance during evaluation.
@@ -36,9 +36,9 @@ Video: [S06E02](https://www.youtube.com/watch?v=1C-xwCbgUPc)
 
 ---
 
-### **Hava Chaptoukaev & Dr. Maria A. Zuluaga** (EURECOM, France)
+### Hava Chaptoukaev & Dr. Maria A. Zuluaga (EURECOM, France)
 
-Title: Acquiring, curating and releasing a multi-modal dataset for stress detection: ambitions, achievements, mistakes and lessons learned
+Title: **Acquiring, curating and releasing a multi-modal dataset for stress detection: ambitions, achievements, mistakes and lessons learned**
 
 Abstract: In 2023, we released StressID, a multi-modal dataset and benchmark, to encourage the development of novel methods for stress detection and their validation within a reproducible setup. This talk aims to introduce you to StressID and to share with you the challenges faced along the way, from the acquisition to its maintenance and release.
 
@@ -115,7 +115,7 @@ Video: [S04E01](https://youtu.be/-jxId9lxqXM?si=g1fridFI0rk1KpoY)
 ---
 
 ### Cathrine Damgaard & Trine Naja Eriksen (IT University of Copenhagen, Denmark)
-Title: Annotation Label Reliability and Pathology Detection in Publicly Available Chest X-ray Datasets
+Title: **Annotation Label Reliability and Pathology Detection in Publicly Available Chest X-ray Datasets**
 
 Abstract: Deep learning models are becoming more prevalent for pathology detection in medical image analysis, as more large-scale medical image datasets are published. The models are, however, prone to make errors which a human specialist never would, even though they have been shown to obtain a better overall performance. This could be caused by the models learning unintended shortcuts, or that the datasets used for training the models often have labels obtained from medical reports associated with the images and not the actual images, making the labels less reliable for an image classification task. We explore pathology label reliability by comparing image review annotations from different sources on the same images, as well as tube label reliability by providing 1,011 non-expert annotations on chest X-ray images, indicating the presence of four different tube types.
 
@@ -184,7 +184,7 @@ Video: [S02E01](https://youtu.be/2sbWrXO6gAc?si=6dzOFJRDibGLeB7c)
 
 ###  Prof. Colin Fleming (Ninewells Hospital, Dundee, UK) 
 
-Title: Characteristics of skin lesions datasets
+Title: **Characteristics of skin lesions datasets**
 
 Abstract: The evidence-base for effectiveness of AI interventions in dermatology is limited in part due to studies being undertaken conditions which do not reflect real-life clinical settings. The majority of public datasets used for training are limited to images and disease labels, without use of additional metadata. The NHS Scotland AI skin cancer consortium seeks to improve opportunities for skin cancer AI development and this talk will outline approaches presently in use in the UK to create higher quality datasets from real world prospective data capture, employing standardised DICOM metadata.’
 
@@ -211,7 +211,7 @@ Video: [S01E02](https://youtu.be/E4inBrMLVog?si=JFOktO-oNQLIA3iu)
 
 ### Roxana Daneshjou (Stanford University, USA) 
 
-Title: Challenges with equipoise and fairness in AI/ML datasets in dermatology
+Title: **Challenges with equipoise and fairness in AI/ML datasets in dermatology**
 
 Abstract: Clinical artificial intelligence (AI) algorithms have the potential to improve clinical care, but fair, generalizable algorithms depend on the clinical data on which they are trained and tested. To assess whether data sets used for training diagnostic AI algorithms addressing skin disease are adequately described and to identify potential sources of bias in these data sets. In this scoping review, PubMed was used to search for peer-reviewed research articles published between January 1, 2015, and November 1, 2020, with the following paired search terms: deep learning and dermatology, artificial intelligence and dermatology, deep learning and dermatologist, and artificial intelligence and dermatologist. Studies that developed or tested an existing deep learning algorithm for triage, diagnosis, or monitoring using clinical or dermoscopic images of skin disease were selected, and the articles were independently reviewed by 2 investigators to verify that they met selection criteria. Data set audit criteria were determined by consensus of all authors after reviewing existing literature to highlight data set transparency and sources of bias. A total of 70 unique studies were included. Among these studies, 1 065 291 images were used to develop or test AI algorithms, of which only 257 372 (24.2%) were publicly available. Only 14 studies (20.0%) included descriptions of patient ethnicity or race in at least 1 data set used. Only 7 studies (10.0%) included any information about skin tone in at least 1 data set used. Thirty-six of the 56 studies developing new AI algorithms for cutaneous malignant neoplasms (64.3%) met the gold standard criteria for disease labeling. Public data sets were cited more often than private data sets, suggesting that public data sets contribute more to new development and benchmarks. This scoping review identified 3 issues in data sets that are used to develop and test clinical AI algorithms for skin disease that should be addressed before clinical translation: (1) sparsity of data set characterization and lack of transparency, (2) nonstandard and unverified disease labels, and (3) inability to fully assess patient diversity used for algorithm development and testing.
 
