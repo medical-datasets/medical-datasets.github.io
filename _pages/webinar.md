@@ -18,7 +18,9 @@ Date: **12th May 2025 at 10am CET**
 
 Where: **Zoom** (link TBA)
 
-Speakers: **TBA**
+Speakers:
+* [Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee) - King's College London, UK
+* [Dewinda J. Rumala](https://djrumala.github.io/) - UNIVERSA AI, Switzerland
 
 #### Previous talks:
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
