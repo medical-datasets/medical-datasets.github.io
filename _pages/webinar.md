@@ -14,7 +14,7 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 All [previous talks](https://medical-datasets.github.io/webinar_talks) where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
 #### Next webinar: Investigating medical datasets 
-Date: **12th May 2025 at 10am CET**
+Date: **12th May 2025 at 10am CEST**
 
 Where: **Zoom** (link TBA)
 
