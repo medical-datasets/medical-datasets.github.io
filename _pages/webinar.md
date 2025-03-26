@@ -21,6 +21,7 @@ Where: **Zoom** (link TBA)
 Speakers:
 * [Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee) - King's College London, UK
 * [Dewinda J. Rumala](https://djrumala.github.io/) - UNIVERSA AI, Switzerland
+* [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io/) - IT University of Copenhagen, Denmark
 
 #### Previous talks:
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
