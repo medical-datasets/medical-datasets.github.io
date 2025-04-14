@@ -20,8 +20,23 @@ Where: **Zoom**, register [here](https://itucph.zoom.us/meeting/register/-koafnh
 
 Speakers:
 * [Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee) - King's College London, UK
+
+Title: **Racial bias in cardiac imaging**
+
+Abstract: Artificial intelligence (AI) methods are being used increasingly for the automated segmentation of cine cardiac magnetic resonance (CMR) imaging. However, these methods have been shown to be subject to race bias; i.e. they exhibit different levels of performance for different races depending on the (im)balance of the data used to train the AI model. We trained AI models to perform race classification on cine CMR images and/or segmentations from White and Black subjects and found that the classification accuracy for images was higher than for segmentations. Interpretability methods showed that the models were primarily looking at non-heart regions. A number of possible confounders for the bias in segmentation model performance were identified for Black subjects but none for White subjects. Distributional differences between annotated CMR data of White and Black races, which can lead to bias in trained AI segmentation models, are predominantly image-based. Most of the differences occur in areas outside the heart, such as subcutaneous fat. 
+
 * [Dewinda J. Rumala](https://djrumala.github.io/) - UNIVERSA AI, Switzerland
+
+Title: **Seeing the Same Brain Twice: Data Leakage and Identity Bias in Brain MRI Analysis**
+
+Abstract: Deep learning models for medical imaging are often praised for their accuracy and the potential for healthcare application. However, many overlook subtle pitfalls that can undermine real-world applicability. One such issue is data leakage, which can lead to misleadingly optimistic performance. In this talk, we explore how subtle forms of data leakage, especially in longitudinal data, can lead models to exploit subject identity rather than learning meaningful clinical features. We discuss the challenges of cross-validation design in this context, and how even robust-looking 3D CNNs can pick up identity cues when repeated scans of the same subject leak into both training and validation sets. The use of GradCAM further exposes the shortcuts taken by the model. By revisiting our findings from the Alzheimer's disease classification task, we reflect on how careful dataset splitting and evaluation strategies can improve robustness and fairness in neuroimaging AI.
+
 * [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io/) - IT University of Copenhagen, Denmark
+
+Title: **In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review**
+
+Abstract: Datasets play a critical role in medical imaging research, yet issues such as label quality, shortcuts, and metadata are often overlooked. This lack of attention may harm the generalizability of algorithms and, consequently, negatively impact patient outcomes. While existing medical imaging literature reviews mostly focus on machine learning (ML) methods, with only a few focusing on datasets for specific applications, these reviews remain static — they are published once and not updated thereafter. This fails to account for emerging evidence, such as biases, shortcuts, and additional annotations that other researchers may contribute after the dataset is published. We refer to these newly discovered findings of datasets as research artifacts. To address this gap, we propose a living review that continuously tracks public datasets and their associated research artifacts across multiple medical imaging applications. Our approach includes a framework for the living review to monitor data documentation artifacts, and an SQL database to visualize the citation relationships between research artifact and dataset. Lastly, we discuss key considerations for creating medical imaging datasets, review best practices for data annotation, discuss the significance of shortcuts and demographic diversity, and emphasize the importance of managing datasets throughout their entire lifecycle. Our demo is publicly available at http://130.226.140.142.
+
 
 #### Previous talks:
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
