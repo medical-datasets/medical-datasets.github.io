@@ -16,7 +16,7 @@ All [previous talks](https://medical-datasets.github.io/webinar_talks) where the
 #### Next webinar: Investigating medical datasets 
 Date: **12th May 2025 at 10am CEST**
 
-Where: **Zoom** (link TBA)
+Where: **Zoom**, register [here](https://itucph.zoom.us/meeting/register/-koafnhwR9aR3uhBEPcfag)
 
 Speakers:
 * [Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee) - King's College London, UK
