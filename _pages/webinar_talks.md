@@ -19,6 +19,8 @@ Abstract: Deep learning models for medical imaging are often praised for their a
 
 Bio: Dewinda holds a PhD in Computer Science from Institut Teknologi Sepuluh Nopember, Indonesia, awarded through the PMDSU Scholarship by the Ministry of Research and Higher Education of the Republic of Indonesia. Her doctoral research focused on deep learning techniques for brain MRI analysis, improving model reliability, computational efficiency, and interpretability for clinical diagnostics. She also initiated work on fairness in AI for longitudinal data, addressing ethical concerns often overlooked in her region. Actively engaged in the scientific community, she has served on the MICCAI FAIMI activity committee and is set to join the RISE MICCAI board as website coordinator. She currently serves as Head of Research at UNIVERSA AI, where she co-initiated the Research and Engineering Lab to foster scientific innovation and responsible AI development.
 
+Video: [S07E03](https://www.youtube.com/watch?v=74_p5H02zIU)
+
 ---
 
 ### Tiarna Lee (King’s College London, UK)
@@ -28,6 +30,8 @@ Title: **Racial bias in cardiac imaging**
 Abstract: Artificial intelligence (AI) methods are being used increasingly for the automated segmentation of cine cardiac magnetic resonance (CMR) imaging. However, these methods have been shown to be subject to race bias; i.e. they exhibit different levels of performance for different races depending on the (im)balance of the data used to train the AI model. We trained AI models to perform race classification on cine CMR images and/or segmentations from White and Black subjects and found that the classification accuracy for images was higher than for segmentations. Interpretability methods showed that the models were primarily looking at non-heart regions. A number of possible confounders for the bias in segmentation model performance were identified for Black subjects but none for White subjects. Distributional differences between annotated CMR data of White and Black races, which can lead to bias in trained AI segmentation models, are predominantly image-based. Most of the differences occur in areas outside the heart, such as subcutaneous fat. 
 
 Bio: Tiarna Lee holds a Master’s degree in Biomedical/Medical Engineering from King's College London. She is now a PhD student in the Department of Biomedical Engineering at King's College London. Her project focuses on fairness in cardiac imaging, she is currently aiming to find the sources of biases so that she can then find a method to address and mitigate them.
+
+Video: [S07E02](https://www.youtube.com/watch?v=OfyFv1gImxM)
 
 ---
 
@@ -41,6 +45,8 @@ Bio: Amelia Jiménez-Sánchez is a postdoctoral researcher at the IT University 
 She actively organizes and participates in community and outreach events. She was part of the MICCAI Student Board, first as a Sport Officer, later as Vice-President, and eventually as an advisor. She has also organized the international workshop on medical imaging datasets "In the Picture: Medical Imaging Datasets", and is one of the organizer of this webinar series.
 She is committed to promoting diversity in STEM, she volunteers in initiative that challenge gender stereotypes and give visibility to diverse role models. Her efforts include delivering science capsules in high schools and mentoring through programs like "Inspira STEAM" and the DDSA Mentoring Programe.
 She is a proud founder, organizer and promoter of "Andaluz.IA", an annual symposium uniting AI researchers in/from Andalusia, her home region. In June 2024, in recognition to her contributions, she was honored with an invitation to join the AI Working Group of the Parliament of Andalusia in Seville (Spain) — expanding her impact beyond academia and contributing to AI policies discussions.
+
+Video: [S07E01](https://www.youtube.com/watch?v=XGn4PPjDWxk)
 
 ---
 

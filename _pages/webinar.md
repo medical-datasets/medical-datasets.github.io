@@ -13,29 +13,12 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 All [previous talks](https://medical-datasets.github.io/webinar_talks) where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
-#### Next webinar: Investigating medical datasets 
-Date: **12th May 2025 at 10am CEST**
+#### Next webinar: TBA
+Date: **TBA**
 
-Where: **Zoom**, register [here](https://itucph.zoom.us/meeting/register/-koafnhwR9aR3uhBEPcfag)
+Where: **Zoom**
 
-Speakers:
-* [Tiarna Lee](https://www.kcl.ac.uk/people/tiarna-lee) - King's College London, UK
-
-Title: **Racial bias in cardiac imaging**
-
-Abstract: Artificial intelligence (AI) methods are being used increasingly for the automated segmentation of cine cardiac magnetic resonance (CMR) imaging. However, these methods have been shown to be subject to race bias; i.e. they exhibit different levels of performance for different races depending on the (im)balance of the data used to train the AI model. We trained AI models to perform race classification on cine CMR images and/or segmentations from White and Black subjects and found that the classification accuracy for images was higher than for segmentations. Interpretability methods showed that the models were primarily looking at non-heart regions. A number of possible confounders for the bias in segmentation model performance were identified for Black subjects but none for White subjects. Distributional differences between annotated CMR data of White and Black races, which can lead to bias in trained AI segmentation models, are predominantly image-based. Most of the differences occur in areas outside the heart, such as subcutaneous fat. 
-
-* [Dewinda J. Rumala](https://djrumala.github.io/) - UNIVERSA AI, Switzerland
-
-Title: **Seeing the Same Brain Twice: Data Leakage and Identity Bias in Brain MRI Analysis**
-
-Abstract: Deep learning models for medical imaging are often praised for their accuracy and the potential for healthcare application. However, many overlook subtle pitfalls that can undermine real-world applicability. One such issue is data leakage, which can lead to misleadingly optimistic performance. In this talk, we explore how subtle forms of data leakage, especially in longitudinal data, can lead models to exploit subject identity rather than learning meaningful clinical features. We discuss the challenges of cross-validation design in this context, and how even robust-looking 3D CNNs can pick up identity cues when repeated scans of the same subject leak into both training and validation sets. The use of GradCAM further exposes the shortcuts taken by the model. By revisiting our findings from the Alzheimer's disease classification task, we reflect on how careful dataset splitting and evaluation strategies can improve robustness and fairness in neuroimaging AI.
-
-* [Amelia Jiménez-Sánchez](https://ameliajimenez.github.io/) - IT University of Copenhagen, Denmark
-
-Title: **In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review**
-
-Abstract: Datasets play a critical role in medical imaging research, yet issues such as label quality, shortcuts, and metadata are often overlooked. This lack of attention may harm the generalizability of algorithms and, consequently, negatively impact patient outcomes. While existing medical imaging literature reviews mostly focus on machine learning (ML) methods, with only a few focusing on datasets for specific applications, these reviews remain static — they are published once and not updated thereafter. This fails to account for emerging evidence, such as biases, shortcuts, and additional annotations that other researchers may contribute after the dataset is published. We refer to these newly discovered findings of datasets as research artifacts. To address this gap, we propose a living review that continuously tracks public datasets and their associated research artifacts across multiple medical imaging applications. Our approach includes a framework for the living review to monitor data documentation artifacts, and an SQL database to visualize the citation relationships between research artifact and dataset. Lastly, we discuss key considerations for creating medical imaging datasets, review best practices for data annotation, discuss the significance of shortcuts and demographic diversity, and emphasize the importance of managing datasets throughout their entire lifecycle. Our demo is publicly available at [http://inthepicture.itu.dk/](http://inthepicture.itu.dk/).
+Speakers: **TBA**
 
 
 #### Previous talks:
@@ -57,7 +40,9 @@ All previous abstracts can be found [here](https://medical-datasets.github.io/we
 * S06E01 - **[Hava Chaptoukaev and Maria Zuluaga](https://www.youtube.com/watch?v=M0Q6oYoc6gI)** (EURECOM, France). 24th February 2025. **Acquiring, curating and releasing a multi-modal dataset for stress detection: ambitions, achievements, mistakes and lessons learned**
 * S06E02 - **[Alice Jin](https://www.youtube.com/watch?v=1C-xwCbgUPc)** (Massachusetts Institute of Technology, USA). 24th February 2025. **Fair Multimodal Checklists for Interpretable Clinical Time Series Prediction**
 * S06E03 - **[Malih Alikhani and Resmi Ramachandranpillai](https://www.youtube.com/watch?v=mk93Asdv_LU)** (Northeastern University, USA). 24th February 2025. **Towards Equity: Overcoming Fairness Challenges in Multimodal Learning**
-
+* S07E01 - **[Amelia Jiménez-Sánchez](https://www.youtube.com/watch?v=XGn4PPjDWxk)** (IT University of Copenhagen, Denmark). 12th May 2025. **In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review**
+* S07E02 - **[Tiarna Lee](https://www.youtube.com/watch?v=OfyFv1gImxM)** (King's College London, UK). 12th May 2025. **Racial bias in cardiac imaging**
+* S07E03 - **[Dewinda J. Rumala](https://www.youtube.com/watch?v=74_p5H02zIU)** (UNIVERSA AI, Switzerland). 12th May 2025. **Seeing the Same Brain Twice: Data Leakage and Identity Bias in Brain MRI Analysis**
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
 
 ### Organizers
