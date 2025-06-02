@@ -43,6 +43,7 @@ All previous abstracts can be found [here](https://medical-datasets.github.io/we
 * S07E01 - **[Amelia Jiménez-Sánchez](https://www.youtube.com/watch?v=XGn4PPjDWxk)** (IT University of Copenhagen, Denmark). 12th May 2025. **In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review**
 * S07E02 - **[Tiarna Lee](https://www.youtube.com/watch?v=OfyFv1gImxM)** (King's College London, UK). 12th May 2025. **Racial bias in cardiac imaging**
 * S07E03 - **[Dewinda J. Rumala](https://www.youtube.com/watch?v=74_p5H02zIU)** (UNIVERSA AI, Switzerland). 12th May 2025. **Seeing the Same Brain Twice: Data Leakage and Identity Bias in Brain MRI Analysis**
+
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
 
 ### Organizers
