@@ -13,13 +13,30 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 All [previous talks](https://medical-datasets.github.io/webinar_talks) where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
-#### Next webinar: TBA
-Date: **TBA**
+#### Next webinar: Language and image data
+Date: **20 October 2025 at 9:30am CET**
 
-Where: **Zoom**
+Where: **Zoom:** [Register here](https://itucph.zoom.us/meeting/register/Rof_q5ekQJOu8YrweI6C9Q#/registration)
 
-Speakers: **TBA**
+Speakers:
 
+* **Yuki Arase** - Tokyo Institute of Technology, Japan
+
+<!-- Title:**TBA**
+
+Abstract: **TBA** -->
+
+* **Mamunur Rahaman** - University of New South Wales, Australia
+
+<!-- Title: **TBA**
+
+Abstract: **TBA** -->
+
+* **David Restrepo** - CentraleSupélec, France
+
+<!-- Title: **TBA**
+
+Abstract: **TBA** -->
 
 #### Previous talks:
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
