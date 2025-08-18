@@ -22,21 +22,21 @@ Speakers:
 
 * **Yuki Arase** - Tokyo Institute of Technology, Japan
 
-<!-- Title:**TBA**
+Title: Japanese Medical Text Simplification Using Patient Blogs
 
-Abstract: **TBA** -->
+Abstract: Text simplification aims to automatically rewrite complex sentences into simpler and more accessible forms. In the medical domain, such simplification is highly desired to enhance patient understanding, yet it remains underexplored in Japanese due to the scarcity of linguistic resources. In this study, we construct a parallel corpus for evaluating Japanese medical text simplification, using data collected from patient weblogs. The corpus consists of 1,425 pairs of complex and simplified sentences, with and without medical terminology. To further improve readability, we introduce a lexically constrained reranking method that suppresses the output of technical terms. Experimental results show that our approach enhances simplification performance in the medical domain, demonstrating its potential for patient-centered healthcare communication.
 
 * **Mamunur Rahaman** - University of New South Wales, Australia
 
-<!-- Title: **TBA**
+Title: Advancing Computational Pathology: Multimodal Datasets and Deep Learning Insights
 
-Abstract: **TBA** -->
+Abstract: The histopathological assessment of tissue biopsies remains the gold standard for cancer diagnosis, but it is limited by subjectivity and challenges in capturing molecular heterogeneity. This talk explores a suite of AI frameworks that integrate deep learning with multimodal datasets, including histopathology images, spatial transcriptomics, and clinical trial data from sources like RTOG 0521 and CHAARTED, to improve cancer diagnostics, prognostication, and treatment personalization. Key innovations include HistopathAI for robust classification under class imbalance, an AI biomarker for Head and Neck Squamous Cell Carcinoma, BrST-Net for predicting gene expression from H&E slides in breast cancer, ST-DoxPCa for stratifying docetaxel response in prostate cancer, and MR-PHE for zero-shot learning in rare disease histopathology. By leveraging diverse datasets such as whole-slide images and genomic profiles, these methods bridge histology and genomics, offering scalable, clinically actionable insights that advance precision oncology.
 
 * **David Restrepo** - CentraleSupélec, France
 
-<!-- Title: **TBA**
+Title: Opening Eyes: Advancing Equitable AI Through Open Ophthalmology Data
 
-Abstract: **TBA** -->
+Abstract: Artificial intelligence has shown great promise in ophthalmology, yet concerns around fairness, bias, and generalizability persist—particularly for populations underrepresented in clinical research. In this talk, I present our efforts to address these challenges through the development of three open and representative datasets: BRSET, mBRSET, and Multi-OphthaLingua. These resources capture diverse retinal images and associated demographic and clinical data from Latin America and beyond, enabling systematic benchmarking of AI performance across geographic, socioeconomic, and linguistic dimensions. Together, they provide a foundation for measuring algorithmic bias and for building equitable AI systems in ophthalmology, spanning both image-based diagnostics and multilingual question-answering.
 
 #### Previous talks:
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
