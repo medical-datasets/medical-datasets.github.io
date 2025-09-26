@@ -14,17 +14,19 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 All [previous talks](https://medical-datasets.github.io/webinar_talks) where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://www.youtube.com/playlist?list=PL_BSB_M_evSmfj9zSvqYVgTcJFtVdJc3y&jct=73eqNJ8tawTN4k4iARpU2xjGklC4Sg). 
 
 #### Next webinar: Language and image data
-Date: **20 October 2025 at 9:30am CET**
+Date: **20 October 2025 at 9:30am CEST**
 
 Where: **Zoom:** [Register here](https://itucph.zoom.us/meeting/register/Rof_q5ekQJOu8YrweI6C9Q#/registration)
 
 Speakers:
 
-* **Yuki Arase** - Tokyo Institute of Technology, Japan
+* **Yuki Arase** - School of Computing, Institute of Science Tokyo (aka Tokyo Institute of Technology), Japan
 
 Title: Japanese Medical Text Simplification Using Patient Blogs
 
 Abstract: Text simplification aims to automatically rewrite complex sentences into simpler and more accessible forms. In the medical domain, such simplification is highly desired to enhance patient understanding, yet it remains underexplored in Japanese due to the scarcity of linguistic resources. In this study, we construct a parallel corpus for evaluating Japanese medical text simplification, using data collected from patient weblogs. The corpus consists of 1,425 pairs of complex and simplified sentences, with and without medical terminology. To further improve readability, we introduce a lexically constrained reranking method that suppresses the output of technical terms. Experimental results show that our approach enhances simplification performance in the medical domain, demonstrating its potential for patient-centered healthcare communication.
+
+Short bio: Yuki Arase is a professor at the School of Computing, Institute of Science Tokyo (aka Tokyo Institute of Technology). Her research interests focus on paraphrasing and NLP technology for language education and healthcare.
 
 * **Mamunur Rahaman** - University of New South Wales, Australia
 
@@ -32,11 +34,17 @@ Title: Advancing Computational Pathology: Multimodal Datasets and Deep Learning 
 
 Abstract: The histopathological assessment of tissue biopsies remains the gold standard for cancer diagnosis, but it is limited by subjectivity and challenges in capturing molecular heterogeneity. This talk explores a suite of AI frameworks that integrate deep learning with multimodal datasets, including histopathology images, spatial transcriptomics, and clinical trial data from sources like RTOG 0521 and CHAARTED, to improve cancer diagnostics, prognostication, and treatment personalization. Key innovations include HistopathAI for robust classification under class imbalance, an AI biomarker for Head and Neck Squamous Cell Carcinoma, BrST-Net for predicting gene expression from H&E slides in breast cancer, ST-DoxPCa for stratifying docetaxel response in prostate cancer, and MR-PHE for zero-shot learning in rare disease histopathology. By leveraging diverse datasets such as whole-slide images and genomic profiles, these methods bridge histology and genomics, offering scalable, clinically actionable insights that advance precision oncology.
 
-* **David Restrepo** - CentraleSupélec, France
+Short bio: Md Mamunur Rahaman is a PhD candidate in Computer Science and Engineering at the University of New South Wales (UNSW), Sydney, specializing in AI, biomedical imaging, and computational pathology. His research focuses on multimodal deep learning for cancer diagnostics.
+
+
+* **David Restrepo** - CentraleSupélec, Université Paris-Saclay, France
 
 Title: Opening Eyes: Advancing Equitable AI Through Open Ophthalmology Data
 
 Abstract: Artificial intelligence has shown great promise in ophthalmology, yet concerns around fairness, bias, and generalizability persist—particularly for populations underrepresented in clinical research. In this talk, I present our efforts to address these challenges through the development of three open and representative datasets: BRSET, mBRSET, and Multi-OphthaLingua. These resources capture diverse retinal images and associated demographic and clinical data from Latin America and beyond, enabling systematic benchmarking of AI performance across geographic, socioeconomic, and linguistic dimensions. Together, they provide a foundation for measuring algorithmic bias and for building equitable AI systems in ophthalmology, spanning both image-based diagnostics and multilingual question-answering.
+
+Short bio: David Restrepo is a PhD student in Applied Mathematics at the Mathematics and Computer Science Lab (MICS) at CentraleSupélec, University of Paris-Saclay. His research focuses on fairness and bias in medical AI, with a particular emphasis on multimodal approaches.
+
 
 #### Previous talks:
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
