@@ -9,9 +9,45 @@ nav: false
 
 # Datasets through the L👀king-Glass
 
+### Yuki Arase (School of Computing, Institute of Science Tokyo (aka Tokyo Institute of Technology), Japan)
+
+Title: **Japanese Medical Text Simplification Using Patient Blogs**
+
+Abstract: Text simplification aims to automatically rewrite complex sentences into simpler and more accessible forms. In the medical domain, such simplification is highly desired to enhance patient understanding, yet it remains underexplored in Japanese due to the scarcity of linguistic resources. In this study, we construct a parallel corpus for evaluating Japanese medical text simplification, using data collected from patient weblogs. The corpus consists of 1,425 pairs of complex and simplified sentences, with and without medical terminology. To further improve readability, we introduce a lexically constrained reranking method that suppresses the output of technical terms. Experimental results show that our approach enhances simplification performance in the medical domain, demonstrating its potential for patient-centered healthcare communication.
+
+Short bio: Yuki Arase is a professor at the School of Computing, Institute of Science Tokyo (aka Tokyo Institute of Technology), Japan. After obtaining her PhD in Information Science from Osaka University in 2010, she worked for Microsoft Research Asia, where she started NLP research that continues to captivate her to this day. Her research interests focus on paraphrasing and NLP technology for language education and healthcare.
+
+Video: [S08E03](https://www.youtube.com/watch?v=KrNmLEttc9k)
+
 ---
 
-### Dewinda J. Rumala - (UNIVERSA AI, Switzerland)
+### David Restrepo (CentraleSupélec, Université Paris-Saclay, France)
+
+Title: **Opening Eyes: Advancing Equitable AI Through Open Ophthalmology Data**
+
+Abstract: Artificial intelligence has shown great promise in ophthalmology, yet concerns around fairness, bias, and generalizability persist—particularly for populations underrepresented in clinical research. In this talk, I present our efforts to address these challenges through the development of three open and representative datasets: BRSET, mBRSET, and Multi-OphthaLingua. These resources capture diverse retinal images and associated demographic and clinical data from Latin America and beyond, enabling systematic benchmarking of AI performance across geographic, socioeconomic, and linguistic dimensions. Together, they provide a foundation for measuring algorithmic bias and for building equitable AI systems in ophthalmology, spanning both image-based diagnostics and multilingual question-answering.
+
+Short bio: David Restrepo is a PhD student in Applied Mathematics at the Mathematics and Computer Science Lab (MICS) at CentraleSupélec, University of Paris-Saclay. He also conducts research at the Laboratory for Computational Physiology (LCP) at MIT. His research focuses on fairness and bias in medical AI, with a particular emphasis on multimodal approaches. He is actively involved in open science initiatives to develop and share medical datasets that support inclusive and representative AI research.
+
+Video: [S08E02](https://www.youtube.com/watch?v=Ezk7solsA1w)
+
+---
+
+### Mamunur Rahaman (University of New South Wales, Australia)
+
+Title: **Advancing Computational Pathology: Multimodal Datasets and Deep Learning Insights**
+
+Abstract: The histopathological assessment of tissue biopsies remains the gold standard for cancer diagnosis, but it is limited by subjectivity and challenges in capturing molecular heterogeneity. This talk explores a suite of AI frameworks that integrate deep learning with multimodal datasets, including histopathology images, spatial transcriptomics, and clinical trial data from sources like RTOG 0521 and CHAARTED, to improve cancer diagnostics, prognostication, and treatment personalization. Key innovations include HistopathAI for robust classification under class imbalance, an AI biomarker for Head and Neck Squamous Cell Carcinoma, BrST-Net for predicting gene expression from H&E slides in breast cancer, ST-DoxPCa for stratifying docetaxel response in prostate cancer, and MR-PHE for zero-shot learning in rare disease histopathology. By leveraging diverse datasets such as whole-slide images and genomic profiles, these methods bridge histology and genomics, offering scalable, clinically actionable insights that advance precision oncology.
+
+Short bio: Md Mamunur Rahaman is a PhD candidate in Computer Science and Engineering at the University of New South Wales (UNSW), Sydney, specializing in AI, biomedical imaging, and computational pathology. 
+His research focuses on multimodal deep learning for cancer diagnostics, He recently completed a visiting fellowship at Georgia Tech and Emory University, collaborating on AI-driven pathology tools. 
+Rahaman holds a Master's in Biomedical Engineering from Northeastern University, China, and serves editorial positions in various journals, while also acting as workshop chair for an international conference.
+
+Video: [S08E01](https://www.youtube.com/watch?v=xrTUQyVNW70)
+
+---
+
+### Dewinda J. Rumala (UNIVERSA AI, Switzerland)
 
 Title: **Seeing the Same Brain Twice: Data Leakage and Identity Bias in Brain MRI Analysis**
 
@@ -19,7 +55,7 @@ Abstract: Deep learning models for medical imaging are often praised for their a
 
 Bio: Dewinda holds a PhD in Computer Science from Institut Teknologi Sepuluh Nopember, Indonesia, awarded through the PMDSU Scholarship by the Ministry of Research and Higher Education of the Republic of Indonesia. Her doctoral research focused on deep learning techniques for brain MRI analysis, improving model reliability, computational efficiency, and interpretability for clinical diagnostics. She also initiated work on fairness in AI for longitudinal data, addressing ethical concerns often overlooked in her region. Actively engaged in the scientific community, she has served on the MICCAI FAIMI activity committee and is set to join the RISE MICCAI board as website coordinator. She currently serves as Head of Research at UNIVERSA AI, where she co-initiated the Research and Engineering Lab to foster scientific innovation and responsible AI development.
 
-Video: [S07E03](https://www.youtube.com/watch?v=74_p5H02zIU)
+Video: [S07E03](https://www.youtube.com/watch?v=rmsDhYzXjsk)
 
 ---
 
@@ -31,7 +67,7 @@ Abstract: Artificial intelligence (AI) methods are being used increasingly for t
 
 Bio: Tiarna Lee holds a Master’s degree in Biomedical/Medical Engineering from King's College London. She is now a PhD student in the Department of Biomedical Engineering at King's College London. Her project focuses on fairness in cardiac imaging, she is currently aiming to find the sources of biases so that she can then find a method to address and mitigate them.
 
-Video: [S07E02](https://www.youtube.com/watch?v=OfyFv1gImxM)
+Video: [S07E02](https://www.youtube.com/watch?v=baIIkFuR56Q)
 
 ---
 
@@ -46,7 +82,7 @@ She actively organizes and participates in community and outreach events. She wa
 She is committed to promoting diversity in STEM, she volunteers in initiative that challenge gender stereotypes and give visibility to diverse role models. Her efforts include delivering science capsules in high schools and mentoring through programs like "Inspira STEAM" and the DDSA Mentoring Programe.
 She is a proud founder, organizer and promoter of "Andaluz.IA", an annual symposium uniting AI researchers in/from Andalusia, her home region. In June 2024, in recognition to her contributions, she was honored with an invitation to join the AI Working Group of the Parliament of Andalusia in Seville (Spain) — expanding her impact beyond academia and contributing to AI policies discussions.
 
-Video: [S07E01](https://www.youtube.com/watch?v=XGn4PPjDWxk)
+Video: [S07E01](https://www.youtube.com/watch?v=GAzzpzzkq6U)
 
 ---
 
@@ -61,7 +97,7 @@ Dr. Alikhani’s interdisciplinary collaborations with educators, healthcare exp
 
 Bio: Resmi Ramachandranpillai is a researcher specializing in Responsible Artificial Intelligence with a focus on social benefits, including fairness, explainability, utility, and robustness in AI and generative AI systems. Her expertise spans Large Language Models (LLMs), multimodal healthcare, mental health, financial data, timeseries generation and forecasting, and computer vision. Currently, she is a Postdoctoral Researcher at Northeastern University’s Institute of Experiential AI, working on interdisciplinary projects involving algorithmic fairness, privacy, and robust evaluation frameworks for high-stakes generative AI applications. Resmi has also contributed to the EU-funded Trustworthy AI project during her postdoctoral fellowship at Linköping University, Sweden, where she focused on scientific foundations for AI trustworthiness. Her research is driven by a commitment to advancing equitable and transparent AI systems across diverse domains.
 
-Video: [S06E03](https://www.youtube.com/watch?v=mk93Asdv_LU)
+Video: [S06E03](https://www.youtube.com/watch?v=5VMpGiwJtfc)
 
 ---
 
@@ -71,7 +107,7 @@ Title: **Fair Multimodal Checklists for Interpretable Clinical Time Series Predi
 Abstract: Checklists are interpretable and easy-to-deploy models often used in real-world clinical decision-making. Prior work has demonstrated that checklists can be learned from binary input features in a data-driven manner by formulating the training objective as an integer programming problem. In this work, we learn diagnostic checklists for the task of phenotype classification with time series vitals data of ICU patients from the MIMIC-IV dataset. For 13 clinical phenotypes, we fully explore the empirical behavior of the checklist model in regard to multimodality, time series dynamics, and fairness. Our results show that the addition of the imaging data modality and the addition of shapelets that capture time series dynamics can significantly improve predictive performance. Checklist models optimized with explicit fairness constraints achieve the target fairness performance, at the expense of lower predictive performance.
 Bio: Alice Jin is a fourth-year Ph.D. student in the HealthyML Group at MIT, led by Professor Marzyeh Ghassemi. Her general research interests are in deep representation learning and generative modeling for healthcare applications. Specifically, she's interested in exploring how expert medical knowledge can be incorporated into ML models, as well as how to ensure medical validity and clinical relevance during evaluation.
  
-Video: [S06E02](https://www.youtube.com/watch?v=1C-xwCbgUPc)
+Video: [S06E02](https://www.youtube.com/watch?v=MY-uj1MwRa4)
 
 ---
 
@@ -83,7 +119,7 @@ Abstract: In 2023, we released StressID, a multi-modal dataset and benchmark, to
 
 Bio: Maria A. Zuluaga is an associate professor at EURECOM with an affiliate position within the School of Biomedical Engineering & Imaging Sciences at King’s College London. Hava Chaptoukaev is a 3rd year PhD student within Maria's research group. They focus on developing novel machine learning methods from multimodal data that can be safely used to advance healthcare research and improve clinical practice. From an application standpoint, they aim to answer questions coming from neurovascular and cardiovascular imaging, as well as cancer research.
 
-Video: [S06E01](https://www.youtube.com/watch?v=M0Q6oYoc6gI)
+Video: [S06E01](https://www.youtube.com/watch?v=yi5uGrIO3NM)
 
 ---
 ### Alceu Bissoto and Dr. Sandra Avila (UNICAMP, Brazil) 
@@ -95,7 +131,7 @@ Bio: Alceu Bissoto holds a Master’s degree in Computer Science from the Instit
 
 Bio: Dr. Sandra Avila is a Professor and Research Scientist at the Institute of Computing, Unicamp, Brazil. Her research interests are in, but are not limited to, the areas of Machine Learning, Computer Vision, Image Processing, and Pattern Recognition. She received the PhD double degree in Computer Science from Federal University of Minas Gerais (UFMG, Brazil), and Pierre and Marie Curie University (UPMC Sorbonne Paris VI, France) (2013). She holds the MSc degree in Computer Science from UFMG (2008). From November 2013 to February 2017 she worked as Postdoctoral Researcher at Unicamp.
 
-Video: [S05E03](https://youtu.be/1gbeopshZiE?si=OXr9E6NiJ6qzt_xp)
+Video: [S05E03](https://www.youtube.com/watch?v=YnzoE8lXhBw)
 
 ---
 ### Dr. Annika Reinke (DKFZ, Germany) 
@@ -105,7 +141,7 @@ Abstract: Validation metrics are key for the reliable tracking of scientific pro
 
 Bio: Dr. Annika Reinke earned her PhD degree in 2023, focusing on eliminating flaws in biomedical image analysis validation. She continues her work as a postdoctoral researcher and deputy head by addressing underrepresented societally relevant topics, particularly scientific benchmarking and validation. Leading the “Validation of Intelligent Systems” group, Dr. Reinke aims to enhance the quality of validation pipelines for biomedical AI algorithms. She holds influential positions in various international groups, including the secretary of the MICCAI Special Interest Group on biomedical challenges and a taskforce lead in the MONAI Working Group on evaluation, reproducibility, and benchmarking.
 
-Video: [S05E02](https://youtu.be/OZheNn-DXp4?si=08wOT6ePeaQ8uApq)
+Video: [S05E02](https://www.youtube.com/watch?v=qReVmmS16xc)
 
 ---
 ### Hubert Dariusz Zając and Natalia-Rozalia Avlona (University of Copenhagen, Denmark) 
@@ -117,7 +153,7 @@ Bio: Hubert D. Zając holds a B.Eng. and M.Sc. in Computer Science. He spent his
 
 Bio: Natalia-Rozalia Avlona is a lawyer and Marie Curie Ph.D. Fellow (DCODE) at the Computer Science Department of the University of Copenhagen. Her research focuses on the implementation of diagnostic algorithmic systems in the Health Care Sector. She is particularly interested in the role of regulatory compliance in the processes of designing and implementing high at-risk AI systems. Ηer aim is to translate the experts’ workflows to broader sociotechnical concerns that can inform the way policymakers perceive and regulate algorithmic systems. Natalia holds a LLB from the School of Law of the National and Kapodistrian University of Athens (2006), and a Master’s degree in Human Rights Law (LLM) from King’s College London (2007), whilst she had successfully taken the Bar Exams in 2009. She has worked for over a decade at the forefront of open and emerging technologies, focusing on their legal and ethical implications. She has international experience working in several Organizations and European Research Programmes in the UK, Belgium, Greece, and Cyprus. She is currently a member of the Management Committee of the CA21118 Cost Action Platform Work Inclusion Living Lab (P-WILL).
 
-Video: [S05E01](https://youtu.be/cl1-pR9P0vQ?si=CFpckhZCiyDjnGxF)
+Video: [S05E01](https://www.youtube.com/watch?v=CyrLJjxdPuU)
 
 ---
 ### Dr. Enzo Ferrante (CONICET, Argentina) 
@@ -127,7 +163,7 @@ Abstract: The evolution of deep segmentation networks has empowered the enhancem
 
 Bio: Dr. Ferrante completed his PhD in Computer Sciences at Université Paris-Saclay and INRIA (Paris, France), and worked as a postdoctoral researcher at Imperial College London in the UK. He has also been a visiting student at the CVGL Lab at Stanford University (2014), Fulbright Visiting Researcher at the A. Martinos Center for Biomedical Imaging (Massachusetts General Hospital - Harvard Medical School, 2021) in Boston, and currently he holds a DATAIA Invited Professor position at MICS Lab, Centrale-Supelec, Université Paris-Saclay. Since 2017, he holds a faculty researcher position at Argentina’s National Research Council (CONICET) where he leads the Machine Learning for Biomedical Image Computing lab. He regularly serves as a member of the program committee of important medical imaging conferences like MICCAI, MIDL, ISBI and IPMI, and he has organized several workshops in this context. In 2020 Dr Ferrante received the Young Researcher Award from the National Academy of Sciences of Argentina and the Mercosur Science & Technology Award for his scientific contributions to AI for medical image computing, and in 2022 the Google Award for Inclusion Research. His research interests span artificial intelligence and biomedical image analysis, currently focusing on fairness, domain adaptation and generalization, calibration and anatomical segmentation of medical images.
 
-Video: [S04E03](https://youtu.be/3MOb1jzZXKc?si=bbh76Gi6KvEjyfqj)
+Video: [S04E03](https://www.youtube.com/watch?v=SWdeT4Mt93o)
 
 ---
 ### Rhys Compton and Lily Zhang (New York University, USA) 
@@ -139,7 +175,7 @@ Bio:
 * Rhys Compton holds a Master’s in Computer Science from New York University, where he explored machine learning applications in healthcare, specifically looking at domain generalization / spurious correlations in chest X-ray data, which this talk focuses on.
 * Lily Zhang is a PhD candidate at New York University in the Center for Data Science. Her research focuses on generative models, out-of-distribution detection and generalization, and applications of machine learning in health and science.
 
-Video: [S04E02](https://youtu.be/hVM2PNsXPhM?si=0fHTBoIWvvF1lfD4)
+Video: [S04E02](https://www.youtube.com/watch?v=WAor2vbkVyw)
 
 ---
 ### Dr. Jessica Schrouff (Google DeepMind, UK)
@@ -149,7 +185,7 @@ Abstract: One potential driver of algorithmic unfairness, shortcut learning, ari
 
 Bio: Jessica is a research scientist at Google DeepMind, working on responsible AI through a causal perspective. Previously, she was at Google Research where she investigated responsible machine learning for healthcare. Before joining Alphabet in 2019, she was a Marie Curie post-doctoral fellow at University College London (UK) and Stanford University (USA), developing machine learning techniques for neuroscience discovery and clinical predictions. Throughout her career, Jessica’s interests have lied not only in the technical advancement of machine learning methods, but also in critical aspects of their deployment such as their credibility, fairness, robustness or interpretability. She is also involved in DEI initiatives, such as Women in Machine Learning (WiML) and founded the Women in Neuroscience Repository.
 
-Video: [S04E01](https://youtu.be/-jxId9lxqXM?si=g1fridFI0rk1KpoY)
+Video: [S04E01](https://www.youtube.com/watch?v=Z_wULE3_exE)
 
 ---
 
@@ -169,7 +205,7 @@ Abstract: The PAD-UFES-20 is a public skin lesion dataset composed of clinical i
 
 Bio: Dr. Andre Pacheco is a researcher in which his interests lie in the intersection of the fields of Artificial Intelligence, Computer Vision and Health Informatics. He holds a Ph.D in Computer Science specialized in medical imaging analysis, in particular, skin cancer detection. Working in the field since 2016, his work has led to multiple publications and contributions. Andre has experience in industry as AI Research Specialist at Samsung Electronics, mainly working on the development of new health/well-being algorithms for smartwatches. Currently, he is an Assistant Professor at Federal University of Espirito Santo, where he recently founded the Laboratory of AI for Health.
 
-Video: [S0302](https://youtu.be/q-DBwWZejMY?si=LvIP9OOLhCQHl1Cw)
+Video: [S0302](https://www.youtube.com/watch?v=_xg2p_--VwM)
 
 ---
 
@@ -181,7 +217,7 @@ Abstract: Although techniques like self-supervised pre-training are becoming mor
 
 Bio: Thijs received a master in AI at University of Amsterdam in 2012 and a Ph.D. on the topic of computer aided diagnosis for mammography at Radboud University. After his Ph.D. he moved to Merantix in 2017 and later Vara in 2018, where he was involved in the development of a triaging solution for screening mammography. After series A closing and CE certification, he joined Lunit in 2020 as VP of AI research, where he currently works and is responsible for the R&D of the Lunit INSIGHT products.
 
-Video: [S0301](https://youtu.be/qhAYUfQlYfo?si=MWYkLucdnafBYrJn)
+Video: [S0301](https://www.youtube.com/watch?v=z6wK40Jyxxg)
 
 ---
 
@@ -193,7 +229,7 @@ Abstract: The talk will be on Brain Tumor Segmentation Challenge design. Data pr
 
 Bio: Ujjwal completed his PhD from Center of Excellence in Signal & Image Processing, SGGSIE&T, Nanded, India in 2020. His major fields of interest include Biomedical Image Analysis, Cancer Imaging, Radiogenomics, and Computational Pathology. He has developed various algorithms for segmentation of brain tumors based on deep learning. His research also revolved around extracting radiomic features for overall survival prediction of patients diagnosed with glioblastoma.
 
-Video: [S02E03](https://youtu.be/_RlcKW0sZ80?si=lM8PxjKasESI25YO)
+Video: [S02E03](https://www.youtube.com/watch?v=WscAtTU4dzE)
 
 ---
 
@@ -205,7 +241,7 @@ Abstract: Machine learning methods exploiting multi-parametric biomarkers, espec
 
 Bio: Dr. Esther Bron leads the research line on ‘Neuroimage analysis and Machine learning’ at Erasmus MC, Rotterdam, the Netherlands. Currently, she is PI in several multicenter projects (TAP-Dementia, MyDigiTwin, CVON Heart Brain Connection, Netherlands Consortium of Dementia Cohorts), and coordinator of the Erasmus MC Imaging Office. Dr. Bron (co-)organized two international grand challenges for the objective comparison of algorithms for AD diagnosis (CADDementia challenge) and prediction (TADPOLE challenge).
 
-Video: [S02E02](https://youtu.be/pYl9bBcQA-M?si=Yyrv5CpQ_t4ysRNZ)
+Video: [S02E02](https://www.youtube.com/watch?v=O6YerZvI4Q0)
 
 ---
 
@@ -217,7 +253,7 @@ Abstract: International challenges have become the de facto standard for compara
 
 Bio: Amber Simpson is the Canada Research Chair in Biomedical Computing and Informatics, and Associate Professor jointly appointed in the Department of Biomedical and Molecular Sciences and School of Computing at Queen’s University. She is an Affiliate of the Vector Institute for AI as well as a Senior Investigator at the Canadian Cancer Trials Group. Dr. Simpson is the Director of the Centre for Health Innovation, a joint venture with Kingston Health Sciences Centre and Queen’s. She received her PhD in Computer Science from Queen’s and was a postdoctoral fellow in the Department of Biomedical Engineering at Vanderbilt University. Recently recruited from a faculty position at Memorial Sloan Kettering Cancer Center in New York, she holds research funding from the National Institutes of Health as well funding from all three Canadian research councils. Dr. Simpson is an American Association of Cancer Research and Pancreatic Cancer Action Network award holder and a charter member of NIH study section, which recognizes her innovations in biomedical research. She specializes in biomedical data science, focusing on developing novel computational strategies for improving human health.
 
-Video: [S02E01](https://youtu.be/2sbWrXO6gAc?si=6dzOFJRDibGLeB7c)
+Video: [S02E01](https://www.youtube.com/watch?v=VD9xytXqh_A)
 
 ---
 
@@ -229,7 +265,7 @@ Abstract: The evidence-base for effectiveness of AI interventions in dermatology
 
 Bio: Colin Fleming is a Consultant Dermatologist, Mohs’ Surgeon, Honorary Professor of Dermatology and Innovation Lead in NHS Tayside, and is based at Ninewells Hospital and Medical School, Dundee. He has been a Consultant in Dundee since 1999 and has set up multiple services for skin cancer patients, including the NOSCAN Macmillan Mohs service. He is a former President of the British Society of Dermatological Surgery, former President of the Scottish Dermatology Society, and was Operational Medical Director in NHS Tayside 2018-2021. He has interests in health informatics, and has been active in development of electronic patient records, and created Dermabase, a web based diagnostic database for dermatology. He is Innovation Lead for NHS Tayside and research lead of the NHS Scotland AI skin cancer consortium, which seeks to establish diagnosis by AI of skin cancer in Scotland within 25 minutes by 2025.
 
-Video: [S01E03](https://youtu.be/MlBxlL5WUuU?si=4rIVRIpZSOgmJIva)
+Video: [S01E03](https://www.youtube.com/watch?v=MDpjI25Hc8Q)
 
 ---
 
@@ -244,7 +280,7 @@ This systematic review revealed limited and variable reporting of key characteri
 
 Bio: Dr. David Wen is a National Institute for Health Research (NIHR) dermatology academic clinical fellow at the University of Oxford and Oxford University Hospitals, United Kingdom. His research interests include use of artificial intelligence to improve skin cancer diagnosis and genotype-phenotype correlation in genetic skin disease.  David completed pre-clinical medical training at the University of Cambridge, clinical training at the University of Oxford, and subsequently undertook general medical training in London at Ealing and Chelsea and Westminster Hospitals. This was followed by a dermatology fellowship in epidermolysis bullosa at Solihull Hospital where he completed an MRes in Clinical Health Research at the University of Birmingham.
 
-Video: [S01E02](https://youtu.be/E4inBrMLVog?si=JFOktO-oNQLIA3iu)
+Video: [S01E02](https://www.youtube.com/watch?v=0g_eFowyWns)
 
 ---
 
@@ -256,4 +292,4 @@ Abstract: Clinical artificial intelligence (AI) algorithms have the potential to
 
 Bio: Roxana Daneshjou received her undergraduate degree at Rice University in Bioengineering. She subsequently completed her MD PhD at Stanford University. During this time, she was awarded several fellowships. She has completed Dermatology residency at Stanford in the research track, and now she practices dermatology as a clinical scholar in Stanford’s department of Dermatology, and also conducts artificial intelligence research in Biomedical Data Science. Her research interests are in developing diverse data sets and fair algorithms for applications in Dermatology and Artificial Intelligence.
 
-Video: [S01E01](https://youtu.be/zLxYUtToXGg?si=DTNmBwPGqqQRasRf)
+Video: [S01E01](https://www.youtube.com/watch?v=hDKuw28ATe4)
