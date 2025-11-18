@@ -43,9 +43,9 @@ All previous abstracts can be found [here](https://medical-datasets.github.io/we
 * S07E01 - **[Amelia Jiménez-Sánchez](https://www.youtube.com/watch?v=GAzzpzzkq6U)** (IT University of Copenhagen, Denmark). 12th May 2025. **In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review**
 * S07E02 - **[Tiarna Lee](https://www.youtube.com/watch?v=baIIkFuR56Q)** (King's College London, UK). 12th May 2025. **Racial bias in cardiac imaging**
 * S07E03 - **[Dewinda J. Rumala](https://www.youtube.com/watch?v=rmsDhYzXjsk)** (UNIVERSA AI, Switzerland). 12th May 2025. **Seeing the Same Brain Twice: Data Leakage and Identity Bias in Brain MRI Analysis**
-* S07E01 - **[Mamunur Rahaman](https://www.youtube.com/watch?v=xrTUQyVNW70)** (University of New South Wales, Australia). 20th October 2025. **Advancing Computational Pathology: Multimodal Datasets and Deep Learning Insights**
-* S07E02 - **[David Restrepo](https://www.youtube.com/watch?v=Ezk7solsA1w)** (CentraleSupélec, Université Paris-Saclay, France). 20th October 2025. **Opening Eyes: Advancing Equitable AI Through Open Ophthalmology Data**
-* S07E03 - **[Yuki Arase](https://www.youtube.com/watch?v=KrNmLEttc9k)** (School of Computing, Institute of Science Tokyo, Japan). 20th October 2025. **Japanese Medical Text Simplification Using Patient Blogs**
+* S08E01 - **[Mamunur Rahaman](https://www.youtube.com/watch?v=xrTUQyVNW70)** (University of New South Wales, Australia). 20th October 2025. **Advancing Computational Pathology: Multimodal Datasets and Deep Learning Insights**
+* S08E02 - **[David Restrepo](https://www.youtube.com/watch?v=Ezk7solsA1w)** (CentraleSupélec, Université Paris-Saclay, France). 20th October 2025. **Opening Eyes: Advancing Equitable AI Through Open Ophthalmology Data**
+* S08E03 - **[Yuki Arase](https://www.youtube.com/watch?v=KrNmLEttc9k)** (School of Computing, Institute of Science Tokyo, Japan). 20th October 2025. **Japanese Medical Text Simplification Using Patient Blogs**
 
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
 
