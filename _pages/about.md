@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 We are focusing on the data aspects of learning-based methods. Our aim is to build a community of scientists interested in understanding how the data we use affects the algorithms and society as a whole, instead of only optimizing for a performance metric. We draw inspiration from a variety of topics, such as data curation to build datasets, meta-data, shortcuts, fairness, ethics and philosophy in AI.
 
-The best way to get a sense of our topics of interest is to look at our [webinar series](http://medical-datasets.github.io/publications/) and the [publications discussed during our workshop](http://medical-datasets.github.io/publications/).
+The best way to get a sense of our topics of interest is to look at our [webinar series](http://medical-datasets.github.io/webinar/) and the [publications discussed during our workshop](http://medical-datasets.github.io/publications/).
 
 
 <div class="news">            
