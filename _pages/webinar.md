@@ -13,39 +13,12 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 All [previous talks](https://medical-datasets.github.io/webinar_talks) where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://youtube.com/playlist?list=PLWCikipQZ8HILJaadZnNVyC9cLpg7A2dy&si=PIOq9ba2dxLcj2tQ). 
 
-#### Next webinar: Evaluation metrics​
-Date: **02 March 2026 at 3:00pm CET**
+#### Next webinar: TBA
+Date: **TBA**
 
-Where: **Zoom:** [Register here](https://itucph.zoom.us/meeting/register/7Uu9dZ9TQVO75y1arqSp4g)
+Where: **Zoom:**
 
-Speakers: 
-
-* **Evangelia Christodoulou** - German Cancer Research Center (DKFZ), Germany
-
-Title: From Metrics to Meaning: Making Evaluation Matter in Medical Imaging AI
-
-Abstract: Recent work from the Metrics Reloaded initiative has exposed fundamental weaknesses in how performance is evaluated and reported in medical imaging AI. An analysis of MICCAI 2023 publications shows that many claimed improvements are not statistically supported and often fall within expected uncertainty given the available dataset sizes, raising the risk of false progress claims. These results highlight the need for larger benchmarks, explicit reporting of performance uncertainty, and more stringent validation practices to ensure that reported advances are robust, interpretable, and clinically meaningful.
-
-Short bio: Evangelia Christodoulou holds a PhD in Clinical Prediction Modelling from KU Leuven, with a background in Mathematics and Biostatistics. She is a postdoctoral researcher at the German Cancer Research Center (DKFZ) in Heidelberg, where her work focuses on the validation of AI methods in biomedical imaging, with particular emphasis on performance uncertainty and dataset size effects.
-
-* **Abhishek Singh Sambyal** - University of Oulu, Finland
-
-Title: Beyond Accuracy: Understanding Calibration in Medical Image Classification
-
-Abstract: Deep neural networks have achieved impressive performance in medical image classification, yet their confidence estimates are often poorly calibrated, limiting their reliability in clinical practice. In high-risk medical settings, accurate predictions must be accompanied by trustworthy uncertainty estimates. This work investigates how different training strategies, including fully supervised learning and rotation-based self-supervised pretraining with and without transfer learning, influence the calibration behavior of deep neural networks. A comprehensive empirical analysis across multiple medical imaging datasets reveals that self-supervised pretraining can significantly improve confidence reliability while maintaining competitive predictive performance. The findings provide practical insights into the relationship between representation learning, training dynamics, and calibration, highlighting pathways toward building more trustworthy medical AI systems.
-
-Short bio: Abhishek Singh Sambyal is a Postdoctoral Researcher in the Intelligent Medical Systems (IMEDS) Group at the University of Oulu. He completed his PhD in Computer Science and Engineering at the IIT Ropar, India. His research focuses on uncertainty quantification, confidence calibration, and improving the reliability of deep neural networks for medical imaging applications.
-
-* **Raghavendra Selvan** - University of Copenhagen, Denmark
-
-Title: Carbon footprint of Medical Image Analysis and Mitigation Strategies
-
-Abstract: The increasing energy consumption and carbon footprint of deep learning (DL) due to growing compute requirements has become a cause of concern. With our work we hope to inform on the increasing energy costs incurred in medical image analysis. We discuss simple strategies to cut-down the environmental impact that can make model selection and training processes more efficient. We also probe into the trade-off between resource consumption and performance, specifically, when dealing with models that are used in critical settings such as in clinics.
-
-Short bio: Raghavendra Selvan (Raghav) is currently an Assistant Professor (Tenure-track) at the Machine Learning Section, Department of Computer Science, University of Copenhagen. His research spans sustainable machine learning, machine learning for sciences, medical image analysis, and graph neural networks. He holds a PhD from the University of Copenhagen and is affiliated with Pioneer Center for AI (Denmark) and the pan-European AI network ELLIS. Raghav was born in Bangalore, India. RS is the author of the new book “Sustainable AI”.
-
-
-
+Speakers: **TBA**
 
 #### Previous talks:
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
@@ -72,6 +45,9 @@ All previous abstracts can be found [here](https://medical-datasets.github.io/we
 * S08E01 - **[Mamunur Rahaman](https://www.youtube.com/watch?v=xrTUQyVNW70)** (University of New South Wales, Australia). 20th October 2025. **Advancing Computational Pathology: Multimodal Datasets and Deep Learning Insights**
 * S08E02 - **[David Restrepo](https://www.youtube.com/watch?v=Ezk7solsA1w)** (CentraleSupélec, Université Paris-Saclay, France). 20th October 2025. **Opening Eyes: Advancing Equitable AI Through Open Ophthalmology Data**
 * S08E03 - **[Yuki Arase](https://www.youtube.com/watch?v=KrNmLEttc9k)** (School of Computing, Institute of Science Tokyo, Japan). 20th October 2025. **Japanese Medical Text Simplification Using Patient Blogs**
+* S09E01 - **[Evangelia Christodoulou](https://www.youtube.com/watch?v=AUYmTQrZsRA)** (German Cancer Research Center (DKFZ), Germany). 2nd March 2026. **From Metrics to Meaning: Making Evaluation Matter in Medical Imaging AI**
+* S09E02 - **[Abhishek Singh Sambyal](https://www.youtube.com/watch?v=UHk2lmowLPw)** (University of Oulu, Finland). 2nd March 2026. **Beyond Accuracy: Understanding Calibration in Medical Image Classification**
+* S09E03 - **[Raghavendra Selvan](https://www.youtube.com/watch?v=ZKkgiQinQPM)** (University of Copenhagen, Denmark). 2nd March 2026. **Carbon footprint of Medical Image Analysis and Mitigation Strategies**
 
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
 
