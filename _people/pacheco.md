@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Andre Pacheco
-img: assets/img/profile-photos/Andre2026.jpg
+img: assets/img/profile-photos/Andre2026.png
 category: Advisory
 importance: 1
 name: Andre Pacheco
