@@ -6,6 +6,6 @@ category: Organizing
 importance: 1
 name: Veronika Cheplygina
 status: Organizing
-description: Veronika Cheplygina is an Associate Professor at the IT University of Copenhagen. Her background is in machine learning in general, and based on medical images in particular. She is also thinking about how we do research, and addressing the inefficiencies/inequalities involved. Before ITU, she was faculty member at the Eindhoven University of Technology.
+description: Dr. Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as an assistant professor at Eindhoven University of Technology. In 2020, failing to achieve various metrics, she left the tenure track of search of the next step where she can contribute to open and inclusive science. In 2021 she started as an associate professor at IT University of Copenhagen, and from 2025 is a full professor at the same university. Next to research and teaching, Veronika blogs about academic life at https://www.veronikach.com. She also loves cats, which you will often encounter in her work.
 website: https://www.veronikach.com
 ---
