@@ -9,6 +9,33 @@ nav: false
 
 # Datasets through the L👀king-Glass
 
+### Leo Joskowicz (School of Computer Science and Engineering at the Hebrew University of Jerusalem, Israel)
+Title: Observer variability in the AI machine learning zoo
+
+Abstract: Deep learning models have become the method of choice for the automatic detection and segmentation of structures in medical images. Supervised learning methods require training datasets with radiologists' annotations. Supervised learning methods yield excellent results but rely on large, annotated datasets to train them, which is expensive and time-consuming, as it requires expert annotators. A variety of methods, including few-shot learning, semi-supervised learning and active learning have been proposed. However, none of them yields satisfactory results, especially for small structures such as lesions and tumors. Moreover, observer variability is seldom reported. This talk discusses the key role that the production of manual annotations and their cost has in developing RadApps and how it can be optimized.
+
+Short bio: Leo Joskowicz is a Professor at the School of Computer Science and Engineering at the Hebrew University of Jerusalem, Israel since 1995. He is the founder and director of the Computer-Aided Surgery and Medical Image Processing Laboratory (CASMIP Lab). Prof. Joskowicz is a Fellow of the IEEE (Institute of Electrical and Electronics Engineers), ASME (Association of Mechanical Engineers), and MICCAI (Medical Image Processing and Computer Aided Intervention) Societies. He is the past President of the MICCAI Society, was the Secretary General of CAOS International (International Society of Computer Aided Orthopaedic Surgery) and ISCAS (International Society for Computer Assisted Surgery). He is the recipient of the 2010 Maurice E. Muller Award for Excellence in Computer Assisted Surgery by CAOS International and the 2007 Kaye Innovation Award. He has published two books and over 350 technical works including book chapters, conference and journal papers and editorials and has 15 issued patents. He is on the Editorial Boards of several journals, including Medical Image Analysis , IEEE Trans. Medical Imaging , Int. J. of Computer Aided Surgery , and Computer Aided Surgery and has served on numerous related program committees. He is the co-founder of HighRAD, an oncology AI imaging company with FDA-cleared products.
+
+---
+
+### Kumar Abhishek (Simon Fraser University's Medical Image Analysis Lab, Canada)
+Title: Styles, Signals, and Scale: Learning from Annotator Disagreement in Skin Lesion Segmentation
+
+Abstract: Manual segmentations of skin lesions are routinely treated as ground truth. In practice, however, different annotators often produce noticeably different lesion boundaries, even when delineating the same image. These differences arise from variations in expertise, annotation tools, and individual interpretation. Rather than viewing this disagreement as noise or collapsing it into a single "ground truth", this talk argues for treating it as data. I will introduce IMA++, the largest public multi-annotator skin lesion segmentation dataset, curated from the ISIC Archive and containing 14,967 dermoscopic images and 17,684 segmentation masks from 16 annotators. In addition to the masks themselves, the dataset includes metadata about the annotation tool used and the level of expertise of the manual reviewer. Unlike most multi-annotator datasets, IMA++ has an incomplete image–annotator graph, reflecting the practical constraints of real annotation workflows where not every annotator labels every image. Building on this data, I will present two lines of work. The first introduces StyleSeg, which discovers plausible, diverse, and semantically consistent segmentation "styles" from a corpus of image-mask pairs, without requiring information about which annotator produced each mask. The second examines inter-annotator agreement and shows that malignant lesions systematically, and statistically significantly, exhibit higher disagreement than benign ones. It also demonstrates that agreement can be predicted from the image itself, and that incorporating this prediction as an auxiliary learning task improves diagnostic performance.
+
+Short bio: Kumar Abhishek is a PhD candidate at Simon Fraser University's Medical Image Analysis Lab, supervised by Prof. Ghassan Hamarneh. He holds an MSc from SFU and a B.Tech. from IIT Guwahati. His research develops machine learning methods for skin image analysis, with a recent focus on data: annotator variability and segmentation styles, dataset curation, and data quality audits of popular dermatological benchmarks. His work has appeared at conferences such as CVPR, MICCAI, ISBI, and MIDL, and in journals including Medical Image Analysis, Scientific Reports, and Scientific Data, and has received four Best Paper Awards: MICCAI ISIC Skin Image Analysis Workshop 2025 and 2024, IEEE ISBI 2025, and CVPR ISIC Skin Image Analysis Workshop 2021.
+
+---
+
+### Laura Quinn (University of Birmingham, UK)
+Title: Interobserver Variability in Breast Screening: A Comparison of Measures
+
+Abstract: Interobserver variability between readers is an important consideration in diagnostic imaging, with direct implications for patient care. Using data from a breast cancer screening programme, this talk will compare commonly used variability measures and demonstrate how different approaches can lead to different conclusions about agreement between readers. The session will discuss the strengths and limitations of these measures, together with practical considerations for selecting, interpreting, and reporting interobserver variability in diagnostic imaging research.
+
+Short bio: Laura Quinn is a Research Fellow in Medical Statistics at the University of Birmingham. Her research focuses on diagnostic test evaluation, particularly interobserver variability in diagnostic imaging, which was the focus of her PhD. She also conducts research on methods for evaluating healthcare performance over time and is currently establishing a research programme on the evaluation and monitoring of AI in diagnostic imaging.
+
+---
+
 ### Raghavendra Selvan (University of Copenhagen, Denmark)
 
 Title: Carbon footprint of Medical Image Analysis and Mitigation Strategies
