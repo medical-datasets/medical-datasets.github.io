@@ -13,10 +13,10 @@ Datasets through the L👀king-Glass is a webinar series focusing on the data as
 
 All [previous talks](https://medical-datasets.github.io/webinar_talks) where the authors have agreed to share the talk, can be found in our [YouTube playlist](https://youtube.com/playlist?list=PLWCikipQZ8HILJaadZnNVyC9cLpg7A2dy&si=PIOq9ba2dxLcj2tQ). 
 
-#### Next webinar: TBA
-Date: **TBA**
+#### Next webinar: Inter-annotator variability
+Date: **Oct 22, 2026 at 16.30 CEST**
 
-Where: **Zoom:**
+Where: **Zoom:** https://itucph.zoom.us/meeting/register/GIDrgL0BQge2uQXt27PwJQ
 
 Speakers:
 
