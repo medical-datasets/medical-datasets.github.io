@@ -16,7 +16,7 @@ All [previous talks](https://medical-datasets.github.io/webinar_talks) where the
 #### Next webinar: Inter-annotator variability
 Date: **Oct 22, 2026 at 16.30 CEST**
 
-Where: **Zoom:** https://itucph.zoom.us/meeting/register/GIDrgL0BQge2uQXt27PwJQ
+Where: **Zoom:** [https://itucph.zoom.us/meeting/register/GIDrgL0BQge2uQXt27PwJQ](https://itucph.zoom.us/meeting/register/GIDrgL0BQge2uQXt27PwJQ)
 
 Speakers:
 
