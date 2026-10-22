@@ -76,7 +76,7 @@ All previous abstracts can be found [here](https://medical-datasets.github.io/we
 All previous abstracts can be found [here](https://medical-datasets.github.io/webinar_talks). 
 
 ### Organizers
-[Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) at the Universitat de Barcelona (Spain), [Théo Sourget](https://tsourget.fr/) & [Veronika Cheplygina](https://veronikach.com) at the IT University of Copenhagen (Denmark), and Steff Groefsema at the University of Groningen (the Netherlands). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
+[Amelia Jiménez-Sánchez](https://ameliajimenez.github.io) at the Universitat de Barcelona (Spain), [Théo Sourget](https://tsourget.fr/) & [Veronika Cheplygina](https://veronikach.com) at the IT University of Copenhagen (Denmark), and [Steff Groefsema](https://www.linkedin.com/in/steff-groefsema-b9a817b3/) at the University of Groningen (the Netherlands) and [Carlos -Maestro](https://github.com/caumente​) at the German Cancer Research Center and Helmholtz Imaging (Germany). This project has received funding from the Independent Research Fund Denmark - Inge Lehmann number 1134-00017B.
 
 ### Newsletter
 If you want to receive information about upcoming seminars, please follow our page on [LinkedIn](https://www.linkedin.com/company/datasets-through-the-looking-glass).
