@@ -16,6 +16,8 @@ Abstract: Deep learning models have become the method of choice for the automati
 
 Short bio: Leo Joskowicz is a Professor at the School of Computer Science and Engineering at the Hebrew University of Jerusalem, Israel since 1995. He is the founder and director of the Computer-Aided Surgery and Medical Image Processing Laboratory (CASMIP Lab). Prof. Joskowicz is a Fellow of the IEEE (Institute of Electrical and Electronics Engineers), ASME (Association of Mechanical Engineers), and MICCAI (Medical Image Processing and Computer Aided Intervention) Societies. He is the past President of the MICCAI Society, was the Secretary General of CAOS International (International Society of Computer Aided Orthopaedic Surgery) and ISCAS (International Society for Computer Assisted Surgery). He is the recipient of the 2010 Maurice E. Muller Award for Excellence in Computer Assisted Surgery by CAOS International and the 2007 Kaye Innovation Award. He has published two books and over 350 technical works including book chapters, conference and journal papers and editorials and has 15 issued patents. He is on the Editorial Boards of several journals, including Medical Image Analysis , IEEE Trans. Medical Imaging , Int. J. of Computer Aided Surgery , and Computer Aided Surgery and has served on numerous related program committees. He is the co-founder of HighRAD, an oncology AI imaging company with FDA-cleared products.
 
+Video: [S09E03](https://www.youtube.com/watch?v=zFiNRRwd3es)
+
 ---
 
 ### Kumar Abhishek (Simon Fraser University's Medical Image Analysis Lab, Canada)
@@ -25,6 +27,8 @@ Abstract: Manual segmentations of skin lesions are routinely treated as ground t
 
 Short bio: Kumar Abhishek is a PhD candidate at Simon Fraser University's Medical Image Analysis Lab, supervised by Prof. Ghassan Hamarneh. He holds an MSc from SFU and a B.Tech. from IIT Guwahati. His research develops machine learning methods for skin image analysis, with a recent focus on data: annotator variability and segmentation styles, dataset curation, and data quality audits of popular dermatological benchmarks. His work has appeared at conferences such as CVPR, MICCAI, ISBI, and MIDL, and in journals including Medical Image Analysis, Scientific Reports, and Scientific Data, and has received four Best Paper Awards: MICCAI ISIC Skin Image Analysis Workshop 2025 and 2024, IEEE ISBI 2025, and CVPR ISIC Skin Image Analysis Workshop 2021.
 
+Video: [S09E02](https://www.youtube.com/watch?v=xKH6Q_Wgubs)
+
 ---
 
 ### Laura Quinn (University of Birmingham, UK)
@@ -33,6 +37,8 @@ Title: Interobserver Variability in Breast Screening: A Comparison of Measures
 Abstract: Interobserver variability between readers is an important consideration in diagnostic imaging, with direct implications for patient care. Using data from a breast cancer screening programme, this talk will compare commonly used variability measures and demonstrate how different approaches can lead to different conclusions about agreement between readers. The session will discuss the strengths and limitations of these measures, together with practical considerations for selecting, interpreting, and reporting interobserver variability in diagnostic imaging research.
 
 Short bio: Laura Quinn is a Research Fellow in Medical Statistics at the University of Birmingham. Her research focuses on diagnostic test evaluation, particularly interobserver variability in diagnostic imaging, which was the focus of her PhD. She also conducts research on methods for evaluating healthcare performance over time and is currently establishing a research programme on the evaluation and monitoring of AI in diagnostic imaging.
+
+Video: [S09E01](https://www.youtube.com/watch?v=g7YpXMUFJsk)
 
 ---
 
